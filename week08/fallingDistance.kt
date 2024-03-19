@@ -1,5 +1,3 @@
-// fallingDistance.kt
-
 fun fallingDistance(time: Int): Double {
     val g = 9.8
     val distance = 0.5 * g * time * time
